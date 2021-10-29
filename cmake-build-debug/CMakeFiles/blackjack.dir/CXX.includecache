@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Blackjack.cpp
+Blackjack.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Blackjack.h
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Blackjack.h
+Deck.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Deck.h
+HumanPlayer.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/HumanPlayer.h
+DealerPlayer.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/DealerPlayer.h
+string
+-
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Card.cpp
+Card.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Card.h
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Card.h
+string
+-
+sstream
+-
+vector
+-
+iostream
+-
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/DealerPlayer.cpp
+DealerPlayer.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/DealerPlayer.h
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/DealerPlayer.h
+Player.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Player.h
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Deck.cpp
+Deck.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Deck.h
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Deck.h
+Card.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Card.h
+cstdlib
+-
+ctime
+-
+algorithm
+-
+cstdio
+-
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/HumanPlayer.cpp
+HumanPlayer.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/HumanPlayer.h
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/HumanPlayer.h
+Player.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Player.h
+iostream
+-
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Player.cpp
+Player.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Player.h
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Player.h
+Card.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Card.h
+Deck.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Deck.h
+
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/main.cpp
+iostream
+-
+Blackjack.h
+C:/Users/Gamer/Desktop/C++ Projects/blackjack/Blackjack.h
+
